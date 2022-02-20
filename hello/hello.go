@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
 
-    "github.com/minjia-theodore-mhen/first_go_app/greetings"
+    "github.com/minjia-theodore-chen/first_go_app/greetings"
 )
 
 func main() {
